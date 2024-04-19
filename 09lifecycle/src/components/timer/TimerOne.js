@@ -32,6 +32,7 @@ export default class TimerOne extends React.Component {
   componentDidUpdate(prevProps, prevState, snapshot) {
     console.log("Timer componentDidUpdate");
     console.log("____________________________");
+    document.title="shubham";
   }
 
   handlecounter=()=>{

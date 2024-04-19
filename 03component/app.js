@@ -1,6 +1,6 @@
 
 //this is function based compoent 
-//we konw one function acn return only one thing so we use react fragment to return multiple element
+//we konw one function can return only one thing so we use react fragment to return multiple element
 // function App(){
 //     return(
 //         <>

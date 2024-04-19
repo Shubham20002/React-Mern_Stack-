@@ -1,5 +1,5 @@
 import React from "react";
-
+//this example is created to show how component will unmount is working while component is unmounting
 export default class TimerTwo extends React.Component {
   constructor() {
     super();
